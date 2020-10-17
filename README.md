@@ -16,7 +16,7 @@ This is GL4 's team solution for UmojaHack Tunisia: InstaDeep Kinase Classificat
 # Team members
 Mokhtar Mami : [mo5mami](https://github.com/Mo5mami)
 
-Mehdi Mabrouki :
+Mehdi Mabrouki : [CallmeMehdi](https://github.com/CallmeMehdi)
 
 Ahmed Attia : 
 
