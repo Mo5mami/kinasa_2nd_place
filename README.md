@@ -1,9 +1,11 @@
 # kinasa_2nd_place
-This GL4 's team solution for UmojaHack Tunisia: InstaDeep Kinase Classification Challenge by UmojaHack Africa
+This is GL4 's team solution for UmojaHack Tunisia: InstaDeep Kinase Classification Challenge by UmojaHack Africa.
 
 # Folders:
 **data** : where to put the provided data from the competition
+
 **results** : where each experiment result is stored
+
 **models** : where experiments models are stored
 
 # Instruction:
@@ -12,9 +14,12 @@ This GL4 's team solution for UmojaHack Tunisia: InstaDeep Kinase Classification
 3. run the notebook blend and you'll have the file "final_submission.csv" in the main directory
 
 # Team members
-Mokhtar Mami : [mo5mami](https://www.google.com)
+Mokhtar Mami : [mo5mami](https://github.com/Mo5mami)
+
 Mehdi Mabrouki :
+
 Ahmed Attia : 
+
 Aziz Belaweid : 
 
 
