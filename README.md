@@ -13,6 +13,8 @@ This is GL4 's team solution for UmojaHack Tunisia: InstaDeep Kinase Classificat
 2. run notebooks work0 -- work6 to predict experiments
 3. run the notebook blend and you'll have the file "final_submission.csv" in the main directory
 
+Check "how_to_run.txt" for more details!
+
 # Team members
 Mokhtar Mami : [mo5mami](https://github.com/Mo5mami)
 
