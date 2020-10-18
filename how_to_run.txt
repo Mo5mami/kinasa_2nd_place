@@ -1,15 +1,9 @@
 In order to reproduce the results that we delivered you need to:
 
-1- Run each and every "work*.ipynb" notebook seperately (One after the other to not
-get any errors), we trained every model in a different notebook because we used
-different parameters for every fold.
-( Note: that you should put the competition data in the "data" folder and run every 
-notebook seperately, DO NOT run the notebooks together!)
+1- Run each and every "work*.ipynb" notebook , we trained every model in a different notebook because we used different parameters for every fold.
 
-2- Running work0, work1, work 2, work 3, work 4, work 5, and work 6 one after the other
-will generate the models weights in the "models" folder and the csv predictions in
-the "results" folder ( Note that if you do not have these folders in your current directory,
-the models will train and apply inference without saving the results.
+
+2- Running work0, work1, work 2, work 3, work 4, work 5, and work 6 will generate the models weights in the "models" folder and the csv predictions in the "results" folder ( Note that if you do not have these folders in your current directory, the models will train and apply inference without saving the results.)
 In addition, if you want to edit the name of the folders [results, models..] you need
 to change the Config class for every "work*.ipynb" notebook you run.
 
