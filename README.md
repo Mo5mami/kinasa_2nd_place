@@ -18,8 +18,8 @@ Mokhtar Mami : [mo5mami](https://github.com/Mo5mami)
 
 Mehdi Mabrouki : [CallmeMehdi](https://github.com/CallmeMehdi)
 
-Ahmed Attia : 
+Ahmed Attia :  
 
-Aziz Belaweid : 
+Aziz Belaweid : [azayz](https://github.com/azayz) 
 
 
