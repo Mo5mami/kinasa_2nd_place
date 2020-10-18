@@ -3,7 +3,8 @@ In order to reproduce the results that we delivered you need to:
 1- Run each and every "work*.ipynb" notebook , we trained every model in a different notebook because we used different parameters for every fold.
 
 
-2- Running work0, work1, work 2, work 3, work 4, work 5, and work 6 will generate the models weights in the "models" folder and the csv predictions in the "results" folder ( Note that if you do not have these folders in your current directory, the models will train and apply inference without saving the results.)
+2- Running work0, work1, work 2, work 3, work 4, work 5, and work 6 will generate the models weights in the "models" folder and the csv predictions in the "results" folder
+( Note that if you do not have these folders in your current directory, the models will train and apply inference without saving the results.)
 In addition, if you want to edit the name of the folders [results, models..] you need
 to change the Config class for every "work*.ipynb" notebook you run.
 
