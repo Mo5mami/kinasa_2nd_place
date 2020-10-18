@@ -10,7 +10,7 @@ This is GL4 's team solution for UmojaHack Tunisia: InstaDeep Kinase Classificat
 
 # Instruction:
 1. Put the data provided by the competition in data
-2. run notebooks work0 -- work6 to predict experiments
+2. run notebooks work0 -- work6 to predict experiments ( Run the notebooks one by one, NOT all at a time!)
 3. run the notebook blend and you'll have the file "final_submission.csv" in the main directory
 
 Check "how_to_run.txt" for more details!
