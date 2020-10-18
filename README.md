@@ -18,7 +18,8 @@ Mokhtar Mami : [mo5mami](https://github.com/Mo5mami)
 
 Mehdi Mabrouki : [CallmeMehdi](https://github.com/CallmeMehdi)
 
-Ahmed Attia :  https://zindi.africa/users/ahmedattia
+Ahmed Attia :  [AhmedAttia](https://github.com/ahmedattia143)
+
 
 Aziz Belaweid : [azayz](https://github.com/azayz) 
 
